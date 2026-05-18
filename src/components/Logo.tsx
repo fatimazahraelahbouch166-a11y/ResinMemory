@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import logo from "@/assets/lofooo.png"
+import logo from "@/assets/logooo.png"
 export function Logo({ size = "sm" }: { size?: "sm" | "lg" }) {
 const logoSize = size === "lg" ? "h-28 md:h-36" : "h-16 md:h-20";
   const textSize = size === "lg" ? "text-4xl md:text-5xl" : "text-xl";
