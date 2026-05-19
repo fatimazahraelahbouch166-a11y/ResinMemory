@@ -34,7 +34,7 @@ export const products: Product[] = [
   {
     id: "2",
     name: "Floral Rose Tray",
-    price: 299,
+    price: 159,
     category: "Keepsakes",
     image: p2,
     description: "A powder pink resin tray encasing real dried flowers. Delicate, romantic, and entirely handmade — perfect as a decorative piece or wedding gift.",
@@ -63,7 +63,7 @@ export const products: Product[] = [
   {
     id: "4",
     name: "Golden Coaster Set",
-    price: 319,
+    price: 69,
     category: "Home",
     image: p4,
     description: "Elegant handmade resin coasters with delicate golden details, designed to add a luxurious touch to your coffee table or home décor.",
@@ -77,7 +77,7 @@ export const products: Product[] = [
   {
     id: "5",
     name: "Memory Calendar",
-    price: 399,
+    price: 349,
     category: "Keepsakes",
     image: p5,
     description: "A transparent resin disc engraved with a custom calendar and a memorable date — wedding, birth, anniversary. A timeless keepsake suspended in resin.",
@@ -91,7 +91,7 @@ export const products: Product[] = [
   {
     id: "6",
     name: "Floral Name Disc",
-    price: 249,
+    price: 199,
     category: "Keepsakes",
     image: p6,
     description: "A transparent resin disc encasing real colorful dried flowers, with a name or message hand-lettered in gold. A unique and personalized gift.",
@@ -105,13 +105,13 @@ export const products: Product[] = [
   {
     id: "7",
     name: "Baby Frames",
-    price: 399,
+    price: 199,
     category: "Frames",
     image: p7,
     tag: "Limited",
     description: "A set of small resin frames to celebrate a newborn — personalized with the name, date of birth, and handprints. A precious keepsake for a lifetime.",
     material: "Premium epoxy resin",
-    dimensions: "10 × 10 cm (set of 4)",
+    dimensions: "10 × 10 cm (set of 5)",
     leadTime: "14–21 days",
     rating: 5,
     reviewCount: 12,
@@ -120,7 +120,7 @@ export const products: Product[] = [
   {
     id: "8",
     name: "Ultrasound Heart",
-    price: 259,
+    price: 399,
     category: "Keepsakes",
     image: p8,
     description: "A transparent resin heart holding your baby's ultrasound, surrounded by dried flowers. The perfect gift for an expecting mother or an unforgettable pregnancy keepsake.",
@@ -134,7 +134,7 @@ export const products: Product[] = [
   {
     id: "9",
     name: "First Bloom Tray",
-    price: 259,
+    price: 169,
     category: "Keepsakes",
     image: p9,
     tag: "Bestseller",
@@ -149,7 +149,7 @@ export const products: Product[] = [
   {
     id: "10",
     name: "Rose Gold Coasters",
-    price: 359,
+    price: 199,
     category: "Home",
     image: p10,
     description: "A set of resin coasters in rose and gold tones, with irregular golden agate-style edges. A luxurious accent for your interior.",
@@ -163,7 +163,7 @@ export const products: Product[] = [
   {
     id: "11",
     name: "Hajj Memory Plaque",
-    price: 349,
+    price: 299,
     category: "Keepsakes",
     image: p11,
     tag: "New",
@@ -178,7 +178,7 @@ export const products: Product[] = [
   {
     id: "12",
     name: "Golden Quran Disc",
-    price: 320,
+    price: 289,
     category: "Keepsakes",
     image: p12,
     description: "A handcrafted resin Quran disc featuring elegant Islamic calligraphy with shimmering golden details — a timeless spiritual décor piece.",
@@ -192,7 +192,7 @@ export const products: Product[] = [
   {
     id: "13",
     name: "Golden Resin Bracelet",
-    price: 249,
+    price: 400,
     category: "Jewelry",
     image: p13,
     description: "A translucent resin bangle adorned with gold glitter and a golden metal trim. Lightweight, elegant, and one of a kind — every piece is different.",
@@ -206,7 +206,7 @@ export const products: Product[] = [
   {
     id: "14",
     name: "Resin Keychain",
-    price: 130,
+    price: 49,
     category: "Accessories",
     image: p14,
     description: "A cloud-shaped translucent resin keychain with integrated glitter, mounted on a golden ring. Soft, lightweight, and customizable.",
@@ -220,7 +220,7 @@ export const products: Product[] = [
   {
     id: "15",
     name: "Flower Pendants",
-    price: 230,
+    price: 50,
     category: "Jewelry",
     image: p15,
     tag: "New",

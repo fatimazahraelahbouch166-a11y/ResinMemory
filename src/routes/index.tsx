@@ -271,7 +271,7 @@ function Home() {
     <p style={{ fontSize: "0.82rem", color: "#7a5c3a", fontWeight: 300, marginBottom: "2rem" }}>
       Follow the pour. Behind every heirloom.
     </p>
-    <a href="https://www.instagram.com/rezin_memory" 
+    <a href="https://www.instagram.com/resin___memory" 
       className="inline-flex items-center gap-2 transition-all duration-300 hover:opacity-70"
       style={{ fontSize: "0.6rem", letterSpacing: "0.4em", textTransform: "uppercase", color: "#c9a84c", textDecoration: "none", borderBottom: "1px solid rgba(201,168,76,0.35)", paddingBottom: "0.25rem" }}>
       Visit Instagram
